@@ -2,9 +2,7 @@
 //  AppDelegate.swift
 //  CoreGraphics
 //
-//  Created by Sriram Srinivasan on 04/07/2014.
-//  Copyright (c) 2014 Amsphere. All rights reserved.
-//
+
 
 import UIKit
 
