@@ -45,7 +45,7 @@ class ViewController: UIViewController {
             
             })
         
-        return testImage!
+        return testImage! 
     }
     
     
