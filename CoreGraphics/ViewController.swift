@@ -19,6 +19,8 @@ class ViewController: UIViewController {
         
         self.view.addSubview(testImage)
         
+        
+        
     }
     
     func loadImage()->UIImage
@@ -45,7 +47,7 @@ class ViewController: UIViewController {
             
             })
         
-        return testImage! 
+        return testImage!
     }
     
     
